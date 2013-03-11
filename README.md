@@ -3,7 +3,7 @@
 This project provides an example of how to use a Azure Worker Role to schedule secondly, daily & weekly jobs using  Quartz.NET.
 
 # Overview
-## Table Storage
+
 
 **QuartzManager** manages the Quartz scheduler and starts the jobs.
 
